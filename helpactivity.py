@@ -31,6 +31,7 @@ from sugar3.activity.widgets import ActivityToolbarButton
 from sugar3.activity.widgets import StopButton
 
 from viewtoolbar import ViewToolbar
+from telemetry import Telemetry
 
 
 def get_current_language():
@@ -51,6 +52,7 @@ def get_index_uri():
 
 class HelpActivity(activity.Activity):
     def __init__(self, handle):
+        Telemetry('start')
         activity.Activity.__init__(self, handle)
 
         self.props.max_participants = 1
