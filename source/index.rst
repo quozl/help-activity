@@ -59,6 +59,7 @@ Activities
     jukebox.rst
     labyrinth.rst
     log.rst
+    maze.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
