@@ -1,3 +1,11 @@
 *~
 *.pyc
+*.pyo
 html/*.html
+doctrees/
+html/.buildinfo
+html/_images/
+html/_static/
+html/objects.inv
+html/searchindex.js
+html/turtleart_tutorials/
