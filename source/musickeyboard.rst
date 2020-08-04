@@ -23,10 +23,6 @@ How to use Music Keyboard
 * Other small, but important details are the inclusion of the enharmonic names of the "black" keys, for example, A# and Bb are both marked on the same key because, on a keyboard, they sound exactly the same.
 * Thirty-three instruments are available for choice, and while they don't sound exactly like the instruments they represent, they are close enough to make it interesting to try different sounds.
 
-Download
---------
-`Activity page in our activities portal <http://activities.sugarlabs.org/sugar/addon/4654>`_
-
 References
 ----------
 `Wiki Page <http://wiki.sugarlabs.org/go/Activities/Music_Keyboard>`_

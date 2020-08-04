@@ -62,11 +62,6 @@ Gallery
 .. image :: ../images/getbooks-img2.png
 
 
-Download
---------
-`Activites Download page <http://activities.sugarlabs.org/en-US/sugar/addon/4304>`_
-
-
 More Info
 ---------
 If you never developed a Sugar Activity, `must read <http://www.flossmanuals.net/make-your-own-sugar-activities/>`_.

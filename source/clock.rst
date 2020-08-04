@@ -19,9 +19,6 @@ The Clock activity is for you to learn how to read time, even if you do not own 
 Where to get Clock
 ------------------
 
-Clock activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Clock <http://activities.sugarlabs.org/en-US/sugar/addon/4191>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/clock-activity>`__.
 
 

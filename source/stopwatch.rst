@@ -7,12 +7,6 @@ About
 
 StopWatch is the quintessential stopwatch Sugar, intuitivoy well as being easy to use, supports the needs of both simple and advanced timing.Among its innovations, StopWatch offers the ability to manage multiple timers simultaneously and to make it easier to manage their watches, you can rename them all.
 
-Where to get StopWatch
-----------------------
-
-While the StopWatch activity does not come preinstalled on all distributions OLPC software, you can download activity from its `Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4263>`_
-
-
 Using
 -----
 

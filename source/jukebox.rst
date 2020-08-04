@@ -13,7 +13,6 @@ Where to get Jukebox
 --------------------
 
 Jukebox is included in the standard releases of the OLPC software.
-If for some reason Jukebox is not installed, it can be downloaded from its `Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4045>`_
 
 
 Using

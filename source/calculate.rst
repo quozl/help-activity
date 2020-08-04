@@ -14,9 +14,6 @@ The Calculate Activity is an infix-notation graphing calculator. Type an express
 Where to get Calculate
 ----------------------
 
-Calculate activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Calculate <https://activities.sugarlabs.org/en-US/sugar/addon/4076>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/sugarlabs-calculate>`__.
 
 Using Calculate

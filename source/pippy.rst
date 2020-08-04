@@ -14,7 +14,7 @@ Pippy allows the student to examine, execute, and modify simple Python programs.
 Where to get Pippy
 ------------------
 
-Pippy is included in the standard releases of the OLPC software. It is available for download `here <http://activities.sugarlabs.org/en-US/sugar/addon/4041>`_
+Pippy is included in the standard releases of the OLPC software.
 
 The source code is available on `GitHub <https://github.com/sugarlabs/Pippy>`__.
 

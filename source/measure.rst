@@ -19,9 +19,6 @@ The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are capabl
 Where to get Measure
 --------------------
 
-Measure activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
-`Measure <http://activities.sugarlabs.org/en-US/sugar/addon/4197>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/Measure>`__.
 
 

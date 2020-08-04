@@ -16,9 +16,6 @@ warnings and debugging information to help you fix problems.
 Where to get Log
 ----------------
 
-Log activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Log <https://activities.sugarlabs.org/en-US/sugar/addon/4056>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/log-activity>`__.
 
 

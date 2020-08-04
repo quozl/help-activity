@@ -42,7 +42,6 @@ Activities
 
     abacus.rst
     browse.rst
-    Cartoon-builder.rst
     calculate.rst
     chat.rst
     chart.rst
@@ -54,31 +53,23 @@ Activities
     getbooks.rst
     help.rst
     implode.rst
-    irc.rst
     jigsaw.rst
     jukebox.rst
-    labyrinth.rst
     log.rst
     maze.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
     paint.rst
-    pippy.rst
     physics.rst
-    poll.rst
-    portfolio.rst
+    pippy.rst
     read.rst
     record.rst
-    Slider.rst
     speak.rst
-    starchart.rst
     stopwatch.rst
-    story.rst
     tamtammini.rst
     terminal.rst
     turtleart.rst
-    turtleblocks3d.rst
     write.rst
 
 

@@ -14,9 +14,6 @@ The Chat Activity is used to exchange messages with your friends or classmates. 
 Where to get Chat
 -----------------
 
-Chat activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Chat <https://activities.sugarlabs.org/en-US/sugar/addon/4069>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/chat>`__.
 
 

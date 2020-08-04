@@ -15,9 +15,6 @@ Distance (earlier known as Acoustic Tape Measure) determines the physical distan
 Where to get Distance
 ---------------------
 
-Distance activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Distance <http://activities.sugarlabs.org/en-US/sugar/addon/4264>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/distance-activity>`__.
 
 

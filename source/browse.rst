@@ -18,9 +18,6 @@ The first thing that you will see when you first click on the Browse icon from t
 Where to get Browse
 -------------------
 
-Browse activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Browse <https://activities.sugarlabs.org/en-US/sugar/addon/4024>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/browse-activity>`__.
 
 Using Browse

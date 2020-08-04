@@ -14,9 +14,6 @@ Read can read PDF files, EPUB files, text files and single-page TIFF files.
 Where to get Read
 -----------------
 
-Read activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
-`Read <https://activities.sugarlabs.org/en-US/sugar/addon/4028>`__
-
 The source code is available on `GitHub <https://github.com/sugarlabs/read-activity>`__.
 
 Using

@@ -21,9 +21,6 @@ Implode is a logic game based on the "falling block" model of Tetris.  The game 
 Where to get Implode
 --------------------
 
-Implode activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
-`Implode <http://activities.sugarlabs.org/en-US/sugar/addon/4086>`__
-
 The source code is available on `GitHub <https://github.com/quozl/implode-activity>`__.
 
 

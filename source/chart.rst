@@ -70,11 +70,6 @@ To enter full screen mode press ``Alt+Return`` or click the |FullScreen_Icon| Ic
 .. |FullScreen_icon| image:: ../images/chart_fullscreenicon.png
 
 
-Download
---------
-`Activity page in our activities portal <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_
-
-
 Development
 -----------
 
@@ -101,4 +96,3 @@ Support for this activity is provided by the developer
 References
 ----------
 `Wiki Page <http://wiki.sugarlabs.org/go/Activities/Chart>`_
-`Download Page <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_
